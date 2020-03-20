@@ -3,7 +3,7 @@ Covid-19 related plots
 
 * Journey of top-50 countries (w.r.t. num cases reported): [View the growth in number of reported cases and number of deaths (Hans Rosling graphs)](https://htmlpreview.github.io/?https://github.com/vinkolar/covid19/blob/master/covid.html).
 * Data from John Hopkins repo [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
-* Analysis code [here](covid.html)
+* Analysis code [here](corona.ipynb)
 
 
 Top finds today for Covid-19 (19 March): See graph [here](https://htmlpreview.github.io/?https://github.com/vinkolar/covid19/blob/master/covid.html) for evolution of num cases and deaths reported 
