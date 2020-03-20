@@ -9,7 +9,7 @@ Covid-19 related plots
 Top finds today for Covid-19 (19 March): See graph [here](https://htmlpreview.github.io/?https://github.com/vinkolar/covid19/blob/master/covid.html) for evolution of num cases and deaths reported 
 * Number of cases reported in US still is growing expoentially. Num cases reported grew from around 7.7k (yesterday) to 13k (today). This may be because of active testing going on. Good news is that the US death rate is **not** growing; it is steady at 1.4-1.5%
 * Italy overtakes China today in number of deaths ableit the huge disparity in respective population numbers
-* France and US overtakes by a large margin South Korea in terms of number of cases reported
+* France and US overtakes South Korea by a large margin -- in terms of number of cases reported
 * France death rate per million grows from around 1.6% to 2.2%. 
 * UK death rate climbs from around 2.7% to 5%
 
