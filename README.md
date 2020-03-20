@@ -14,4 +14,4 @@ Top finds today for Covid-19 (19 March): See graph [here](https://htmlpreview.gi
 * UK death rate climbs from around 2.7% to 5%
 * US death rate holds steady at 1.5%
 
-Disclaimer: These are purely observations from the graph. I take no responsibility for correctness. Links for data and code is available in this repository to cross-check
+Disclaimer: These are purely observations from the data provided. I take no responsibility for correctness or implications. Links for data and code is available in this repository to cross-check
