@@ -39,6 +39,7 @@ Covid-19 related plots
 * UK death rate climbs from around 2.7% to 5%
 
 ## Recent additions
+* Mar 21: US-state level analysis
 * Mar 20: Exponential fitting of num cases reported. Analysis of exponents of fit
 
 ## Disclaimer
