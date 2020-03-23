@@ -7,19 +7,23 @@ Covid-19 related plots
 * Data from Johns Hopkins repository [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 * Analysis notebook code [here](corona.ipynb) includes exponential fit and other analysis
 
-# Top finds today for Covid-19 (20 March)
+# Top finds today for Covid-19 (22 March)
 * Country-level summary: See graph [here](https://htmlpreview.github.io/?https://github.com/vinkolar/covid19/blob/master/covid.html) for evolution of num cases and deaths reported 
 * US-states level summary: See graph [here](https://htmlpreview.github.io/?https://github.com/vinkolar/covid19/blob/master/covid_us.html) for evolution of num cases and deaths reported 
 
 
 ## Where do countries stand
-![Snapshot on 21-March-2020](countrySnapshot.png)
+![Snapshot on 22-March-2020](countrySnapshot.png)
 
 
 ## Where does US-states stand
-![Snapshot on 21-March-2020](usStateSnapshot.png)
+![Snapshot on 22-March-2020](usStateSnapshot.png)
 
 ## Highlights
+### Mar 22
+* No significant increase of death rate changes in US. Good news
+* Spain overtakes Iran in num deaths
+
 ### Mar 21
 * Denmark, Sweden, Norway is doing well flattening the curve. The curve "seems" to be not growing at the same rate
 * Germany has done a great job in containing death rate. It is one of the lowest (0.3%). 
