@@ -5,7 +5,6 @@ Covid-19 related plots
 * Data from Johns Hopkins repository [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 * Analysis notebook code [here](corona.ipynb) includes exponential fit and other analysis
 
-
 ## Where do countries stand
 ![Snapshot on 22-March-2020](countrySnapshot.png)
 
